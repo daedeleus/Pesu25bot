@@ -1,0 +1,3 @@
+PRN,SRN,Semester,Section,Cycle,Dept/Campus,Stream,Campus,Name
+PESX20XXXXXXX,PESXUGXXXXXXX,Sem-2,Section X,Chemistry Cycle,S & H (RR Campus),CSE,PES University (Ring Road),Name
+PESX20XXXXXXX,PESXUGXXXXXXX,Sem-6,Section C,NA,CSE (RR Campus),CSE,PES University (Ring Road),Name
